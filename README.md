@@ -1,4 +1,4 @@
-> NOTE: This idea is still very much just that, an idea. It is therefore subject to constant change. That being said, contributions of any sort are always welcome and considered. Any contributions should be made in the form of an idea via means of a GitHub Issue (create on [here](https://github.com/ORP-tmp/ORP/issues)).
+> NOTE: This idea is still very much just that, an idea. It is therefore subject to constant change. That being said, contributions of any sort are always welcome and considered. Any contributions should be made in the form of an idea via means of a GitHub Issue (create one [here](https://github.com/ORP-tmp/ORP/issues)).
 
 # What is ORP?
 ORP (Open Rich Presence) is a standard for implementing Rich Presence into applications. 
